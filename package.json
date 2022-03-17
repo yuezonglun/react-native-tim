@@ -1,0 +1,22 @@
+{
+  "name": "react-native-tim",
+  "version": "0.1.0",
+  "description": "react-native wrapper of Tencent IM SDK, support both iOS and Android.",
+  "main": "index.js",
+  "author": {
+    "name": "yuezl",
+    "email": "1045713422@qq.com"
+  },
+  "homepage": "https://github.com/yuezonglun/react-native-tim.git",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "tim"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yuezonglun/react-native-tim.git"
+  }
+}

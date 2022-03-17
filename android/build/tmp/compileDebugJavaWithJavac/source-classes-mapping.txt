@@ -1,0 +1,10 @@
+xin/dayukeji/rn/tim/DTTimPackage.java
+ xin.dayukeji.rn.tim.DTTimPackage
+xin/dayukeji/rn/tim/DTTimModule.java
+ xin.dayukeji.rn.tim.DTTimModule
+ xin.dayukeji.rn.tim.DTTimModule$1
+ xin.dayukeji.rn.tim.DTTimModule$2
+ xin.dayukeji.rn.tim.DTTimModule$3
+ xin.dayukeji.rn.tim.DTTimModule$SimpleTimCallback
+xin/dayukeji/rn/tim/BuildConfig.java
+ xin.dayukeji.rn.tim.BuildConfig

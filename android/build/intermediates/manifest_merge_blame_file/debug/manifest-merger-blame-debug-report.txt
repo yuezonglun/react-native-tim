@@ -1,0 +1,30 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="xin.dayukeji.rn.tim"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+11-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml:4:5-81
+11-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml:4:22-78
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml:5:5-67
+12-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml:5:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml:6:5-79
+13-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml:7:5-76
+14-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml:7:22-73
+15
+16    <application>
+16-->/Users/ceshizhanghu/Desktop/up3d/up3d-rn/node_modules/@opendt/react-native-tim/android/src/main/AndroidManifest.xml:9:5-10:19
+17    </application>
+18
+19</manifest>
