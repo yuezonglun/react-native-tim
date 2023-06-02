@@ -27,5 +27,5 @@ android {
 
 dependencies {
     implementation "com.facebook.react:react-native:${safeExtGet('reactNative', '+')}"
-    api "com.tencent.imsdk:imsdk:${safeExtGet('timAndroid', '4.6.1')}"
+    api "com.tencent.imsdk:imsdk:${safeExtGet('timAndroid', '5.1.66')}"
 }
